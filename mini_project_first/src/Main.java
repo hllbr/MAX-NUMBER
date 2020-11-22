@@ -24,7 +24,7 @@ public class Main {
         else if(c>a && c>b){
             System.out.println("Max number :"+c);
         }
-        double d;
+        
         
    
         
